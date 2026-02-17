@@ -18,8 +18,9 @@ Insights and recommendations are provided on the following key areas:
 Data Structure and Initial Checks
 
 Ironworks detailed analysis using excel Pivot table looks this:
-<p align="center">
-  <img src="pivot-table.png" width="700">
-</p>
+
+An interactive Tableau dashboard can be seen [here](your-link).
+
+![Pivot Table Screenshot](pivot-table.png)
 
 
