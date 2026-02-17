@@ -30,5 +30,8 @@ The dashboard highlights seasonal and temporal trends, showing that sales peaked
 
 The analysis also provides geographical and category-level insights. North America consistently shows the highest sales, suggesting the need to prioritize inventory, marketing, and retention strategies in that region. Conversely, the UK exhibits the lowest performance, signaling opportunities to reassess pricing, distribution, and localized marketing. Across all products, similar dips were observed in November 2022, and annual price spikes occur across multiple years, indicating consistent seasonal effects. These insights support data-driven decision-making for pricing, promotions, and operational planning.
 
+![Dashboard Tableua Screenshot](Dashboard-Tableau.png)
+
+
 
 
